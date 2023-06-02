@@ -14,3 +14,8 @@ Important Notes:
       EC2 - VPC, IGW
       
    Alternative for testing purposes: A user with administrator access
+
+
+Steps:
+1. Run ```vagrant up```
+2. Run ```bash cluster_setup.sh```
